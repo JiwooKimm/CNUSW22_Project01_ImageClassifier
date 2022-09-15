@@ -1,2 +1,2 @@
-2022 CNU SW Academy Projexts.
+### 2022 CNU SW Academy Projects.
 
