@@ -1,6 +1,7 @@
 ### Release Image generator based on GAN
 
-#### 22.10.20.02:00
+<span style="background_color: gray">22.10.20.02:00</span>
+
 **Upload** back up file (03_Face_Mask_Generator_based_on_GAN(backup))
 
 **Update** 03_Face_Mask_Generator_based_on_GAN 
