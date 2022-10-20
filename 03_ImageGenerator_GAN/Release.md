@@ -6,7 +6,10 @@
 - generator 와discriminator loss가 수렴되지 않으며,
  생성 이미지의 퀄리티가 좋지 않음.
 **quick result**
-![alt text] https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_loss_log1_conv.png
+- Loss log of generator & discriminator
+<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_loss_log1_conv.png">
+
+- Generated (fake) images
 
 **to fix**
 각 레이어를 convolution 이 아닌 fully connect 시킨다. 
