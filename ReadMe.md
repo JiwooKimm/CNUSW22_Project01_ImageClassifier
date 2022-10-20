@@ -12,7 +12,7 @@ Image Classification
 - LightResNet
 - ResNet(Custom Mission) 
 
-#### **03. Face with/without Mask Image Generator based on GAN
+#### **03. Face with/without Mask Image Generator based on GAN**
 - simple GAN
 - DCGAN
 - WGAN-GP (Custom Mission) 
