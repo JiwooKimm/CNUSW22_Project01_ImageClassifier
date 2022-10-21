@@ -1,12 +1,21 @@
 ### Release Image generator based on GAN
+#### 22.10.20 22:00
+**Update** 03_Face_Mask_Generator_based_on_GAN
+- 신경망을 fully connection 으로 수정
+
+**quick result**
+- loss 잘 수렴되는 것 같고, 생성 이미지의 퀄리티 나쁘지 않으나 label 생성 누락 -> with/without 마스크 구분 불가,,
+<img src-"https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_nolabel.png">
+
+
 
 #### 22.10.20. 10:00
 **Update** 03_Face_Mask_Generator_based_on_GAN
 - WGAN-GP GP 부분 에러 해결
-- generator 와discriminator loss가 수렴되지 않으며,
- 생성 이미지의 퀄리티가 좋지 않음.
  
 **quick result**
+- generator 와discriminator loss가 수렴되지 않으며,
+ 생성 이미지의 퀄리티가 좋지 않음.
 - Loss log of generator & discriminator
 <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_loss_log1_conv.png">
 
