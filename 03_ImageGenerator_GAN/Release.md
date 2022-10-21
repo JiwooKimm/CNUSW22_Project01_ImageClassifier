@@ -5,7 +5,8 @@
 
 **quick result**
 - loss 잘 수렴되는 것 같고, 생성 이미지의 퀄리티 나쁘지 않으나 label 생성 누락 -> with/without 마스크 구분 불가,,
-<img src-"https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_nolabel.png">
+- Generated (fake) images
+<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_nolabel.png">
 
 
 
