@@ -1,5 +1,6 @@
 ### Release Image generator based on GAN
-#### 22.10.20 22:00
+#### `22.10.20 22:00`
+
 **Update** 03_Face_Mask_Generator_based_on_GAN
 - 신경망을 fully connection 으로 수정
 
@@ -10,7 +11,8 @@
 
 
 
-#### 22.10.20. 10:00
+#### `22.10.20. 10:00`
+
 **Update** 03_Face_Mask_Generator_based_on_GAN
 - WGAN-GP GP 부분 에러 해결
  
@@ -29,7 +31,8 @@
 각 레이어를 convolution 이 아닌 fully connect 시킨다. 
 
 
-#### 22.10.20.02:00
+#### `22.10.20.02:00`
+
 **Upload** back up file (03_Face_Mask_Generator_based_on_GAN(backup))
 
 **Update** 03_Face_Mask_Generator_based_on_GAN 
