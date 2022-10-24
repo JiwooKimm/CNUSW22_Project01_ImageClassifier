@@ -15,10 +15,10 @@
 <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_loss_log1.png">
 
 - generated images
- <img src="https:/
-	/github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_with_mask.png" width= "30">
+- 
+ <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_with_mask.png" width= "200">
 
-<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_without_mask.png" width= "30">
+<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_without_mask.png" width= "200">
 
 
 \space <span style="color: gray"> 📎 
@@ -57,9 +57,9 @@
 <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_loss_log1_conv.png">
 
 - Generated (fake) images
-<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskoff_-_conv.png">
+<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskoff_-_conv.png" width="200">
 
-<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskon_-_conv.png">
+<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskon_-_conv.png" width="200">
 																		   
 **to fix**
 각 레이어를 convolution 이 아닌 fully connect 시킨다. 
