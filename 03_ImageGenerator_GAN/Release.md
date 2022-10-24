@@ -10,14 +10,15 @@
 	- fully-connected network
 
 **quick results**
--loss-log 
+- loss-log 
 
 <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_loss_log1.png">
 
 - generated images
- <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_with_mask.png", width= 30>
+ <img src="https:/
+	/github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_with_mask.png" width= "30">
 
-<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_without_mask.png", width= 30>
+<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_without_mask.png" width= "30">
 
 
 \space <span style="color: gray"> 📎 
