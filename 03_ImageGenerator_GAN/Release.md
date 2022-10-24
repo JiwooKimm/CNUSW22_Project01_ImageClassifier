@@ -23,11 +23,17 @@
 
  📎 
 	- `WGAN-GP_v3_Generator_for_Face_Mask.pt`
+	
 	- `WGAN-GP_v3_Discriminator_for_Face_Mask.pt`
+	
 	- `results_customWGAN-GP_v3.zip`
+	
 	- `WGAN-GP_v3_without_mask.png`
+	
 	- `WGAN-GP_v3_with_mask.png`
+	
 	- `WGAN-GP_v3_loss_log2.png`
+	
 	- `WGAN-GP_v3_loss_log1.png`
 
 
