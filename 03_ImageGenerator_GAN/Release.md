@@ -1,4 +1,31 @@
 ### Release Image generator based on GAN
+
+#### `22.10.24 15:30`
+
+**Update** 03_Face_Mask_Generator_based_on_GAN
+- label 누락 문제 수정
+- WGAN-GP model v.3
+	- Optimizer: RMSprop
+	- epoch: 200
+	- fully-connected network
+
+**quick results**
+-loss-log 
+
+<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_loss_log1.png">
+
+\space <span style="color: gray"> 📎 
+- WGAN-GP_v3_Generator_for_Face_Mask.pt
+- WGAN-GP_v3_Discriminator_for_Face_Mask.pt
+- results_customWGAN-GP_v3.zip
+- WGAN-GP_v3_without_mask.png
+- WGAN-GP_v3_with_mask.png
+- WGAN-GP_v3_loss_log2.png
+- WGAN-GP_v3_loss_log1.png
+</span>
+
+#### `22.10.24 12:05`
+**Update** 03_Face_Mask_Generator_based_on_GAN
 #### `22.10.20 22:00`
 
 **Update** 03_Face_Mask_Generator_based_on_GAN
