@@ -22,6 +22,7 @@
 
 
  📎 
+ 
 	- `WGAN-GP_v3_Generator_for_Face_Mask.pt`
 	
 	- `WGAN-GP_v3_Discriminator_for_Face_Mask.pt`
