@@ -2,7 +2,7 @@
 #### `22.10.20 22:00`
 
 **Update** 03_Face_Mask_Generator_based_on_GAN
-- 신경망을 fully connection 으로 수정
+- 신경망을 convolution network -> fully connected network 으로 수정
 
 **quick result**
 - loss 잘 수렴되는 것 같고, 생성 이미지의 퀄리티 나쁘지 않으나 label 생성 누락 -> with/without 마스크 구분 불가,,
