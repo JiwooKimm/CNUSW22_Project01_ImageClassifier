@@ -16,9 +16,9 @@
 
 - generated (fake) images
 - 
- <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_with_mask.png" width= "600">
+ <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_with_mask.png" width= "450">
 
- <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_without_mask.png" width= "600">
+ <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_v3_without_mask.png" width= "450">
 
 
 <span style="color: grey"> 📎 
@@ -41,7 +41,7 @@
 **quick result**
 - loss 잘 수렴되는 것 같고, 생성 이미지의 퀄리티 나쁘지 않으나 label 생성 누락 -> with/without 마스크 구분 불가,,
 - Generated (fake) images
-<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_nolabel.png" width="600">
+<img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_nolabel.png" width="450">
 
 
 
@@ -57,9 +57,9 @@
 <img src="https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_loss_log1_conv.png">
 
 - Generated (fake) images
-<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskoff_-_conv.png" width="600">
+<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskoff_-_conv.png" width="450">
 
-<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskon_-_conv.png" width="600">
+<img src= "https://github.com/JiwooKimm/CNUSW22_Project01_ImageClassifier/blob/master/03_ImageGenerator_GAN/figures/WGAN-GP_face_maskon_-_conv.png" width="450">
 																		   
 **to fix**
 각 레이어를 convolution 이 아닌 fully connect 시킨다. 
